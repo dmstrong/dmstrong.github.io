@@ -25,7 +25,7 @@ const handleAnimationEnd = () => {
     container.style.animationDuration = '2s';
 
     const newHeader = document.createElement('div')
-    newHeader.innerHTML = `<h4>Need a Dev?</h4> <p>Contact me on Twitter @_devthadude_ </p> <h5>Happy C❤️ding! - D.Strong</h5>`;
+    newHeader.innerHTML = `<h4>Need a Dev?</h4> <p>Contact me on Twitter <a href="https://twitter.com/_DevthaDude_" target="_blank">@_devthadude_</a> </p> <h5>Happy C❤️ding! - D.Strong</h5>`;
     newHeader.classList.add('animated', 'fadeInUpBig')
     newHeader.style.animationDuration = '2s';
     newHeader.style.animationDelay = '2s';
