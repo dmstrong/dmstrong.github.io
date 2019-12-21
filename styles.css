@@ -5,13 +5,13 @@
     text-align: center;
 }
 ul {
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
 }
 li {
-    font-size: .9em;
-    margin: 5px 10px;
-    padding: 10px 5px;
+    font-size: 1em;
+    margin: 15px 10px;
+    padding: 15px 10px;
     background: rgb(180, 25, 180);
     border-radius: 4px;
     color: white;
@@ -20,4 +20,7 @@ li {
 li a {
     color: white;
     text-decoration: none;
+}
+li:hover {
+    background: rgba(180, 25, 180, .9);
 }
