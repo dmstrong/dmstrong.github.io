@@ -34,10 +34,10 @@ const handleAnimationEnd = () => {
 
 
     const newHeader = document.createElement('h5')
-    newHeader.innerHTML = `Check back soon for more examples. <br /><br /> Happy Coding! - Dev Tha Dude`;
+    newHeader.innerHTML = `Check back soon for more code examples. <br /><br /> Happy C<div style="font-size:.6em; display:inline;">❤️</div>ding! - Dev Tha Dude`;
     newHeader.classList.add('animated', 'fadeInUpBig')
     newHeader.style.animationDuration = '2s';
-    newHeader.style.animationDelay = '7s';
+    newHeader.style.animationDelay = '2s';
     
     // Append and Replace
     container.appendChild(newHeader)
