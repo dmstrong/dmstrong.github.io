@@ -1,3 +1,7 @@
+body { 
+    background: rgb(126, 15, 126);
+    color: white;
+}
 .container {
     margin: 0 auto;
     width: 90%;
@@ -23,4 +27,5 @@ li a {
 }
 li:hover {
     background: rgba(180, 25, 180, .9);
+    color: rgb(185, 183, 183);
 }
