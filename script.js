@@ -1,5 +1,5 @@
 const devthadude = document.querySelector('.devthadude')
-devthadude.textContent = `Hi, I'm D. Strong!`;
+devthadude.textContent = `Hi, I'm Derrick!`;
 devthadude.classList.add('animated', 'hinge')
 devthadude.style.animationDuration = '2s'
 devthadude.style.animationDelay = '4s'
