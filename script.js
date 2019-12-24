@@ -2,7 +2,7 @@ const devthadude = document.querySelector('.devthadude')
 devthadude.textContent = `Hi, I'm Derrick!`;
 devthadude.classList.add('animated', 'hinge')
 devthadude.style.animationDuration = '2s'
-devthadude.style.animationDelay = '4s'
+devthadude.style.animationDelay = '3s'
 
 const handleAnimationEnd = () => {
     const header = document.querySelector('#header');
