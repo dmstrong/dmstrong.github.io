@@ -12,6 +12,9 @@ const handleAnimationEnd = () => {
         <h4>Check out some of my projects:</h4>
         <ul>
             <li>
+            <a href="https://dmstrong.github.io/gatsby-markdown/" target="_blank">Gatbsy Blog feat. Markdown</a>
+            </li>
+            <li>
             <a href="https://dmstrong.github.io/simplelist/" target="_blank">Simple List/Todo app feat. localStorage</a
             >
             </li>
@@ -19,7 +22,7 @@ const handleAnimationEnd = () => {
             <a href="https://dmstrong.github.io/todoapp/" target="_blank">React Todo app feat. React Context and Hooks</a>
             </li>
         </ul>
-      </div>`
+      </div>`;
 
     container.classList.add('animate', 'jackInTheBox')
     container.style.animationDuration = '2s';
