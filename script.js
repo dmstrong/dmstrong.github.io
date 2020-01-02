@@ -21,6 +21,9 @@ const handleAnimationEnd = () => {
             <li>
             <a href="https://dmstrong.github.io/todoapp/" target="_blank">React Todo app feat. React Context and Hooks</a>
             </li>
+            <li>
+            <a href="https://dmstrong.github.io/superfriends/" target="_blank">Vue.js app (Super Friends)</a>
+            </li>
         </ul>
       </div>`;
 
