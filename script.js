@@ -24,6 +24,9 @@ const handleAnimationEnd = () => {
             <li>
             <a href="https://dmstrong.github.io/superfriends/" target="_blank">Vue.js app (Super Friends)</a>
             </li>
+            <li>
+            <a href="https://dmstrong.github.io/big2/" target="_blank">BIG II (JS Piano app)</a>
+            </li>
         </ul>
       </div>`;
 
