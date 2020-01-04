@@ -15,6 +15,9 @@ const handleAnimationEnd = () => {
             <a href="https://dmstrong.github.io/gatsby-markdown/" target="_blank">Gatbsy Blog feat. Markdown</a>
             </li>
             <li>
+            <a href="https://dmstrong.github.io/big2/" target="_blank">BIG II (JS Piano app)</a>
+            </li>
+            <li>
             <a href="https://dmstrong.github.io/simplelist/" target="_blank">Simple List/Todo app feat. localStorage</a
             >
             </li>
@@ -23,9 +26,6 @@ const handleAnimationEnd = () => {
             </li>
             <li>
             <a href="https://dmstrong.github.io/superfriends/" target="_blank">Vue.js app (Super Friends)</a>
-            </li>
-            <li>
-            <a href="https://dmstrong.github.io/big2/" target="_blank">BIG II (JS Piano app)</a>
             </li>
         </ul>
       </div>`;
